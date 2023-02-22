@@ -1,0 +1,4 @@
+DisplayName: ExplodingAU Test Program
+Latest: v1.1
+DlLoc: https://github.com/ExplodingBottle/ExplodingAUTest/releases/download/v1.1/eautest.jar
+Mode: direct
