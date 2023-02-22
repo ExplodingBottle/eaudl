@@ -1,4 +1,4 @@
 DisplayName: JMagicProxy
-Latest: v1.1.1
-DlLoc: https://github.com/ExplodingBottle/JMagicProxy/releases/download/v1.1.1/Release-Default.zip
+Latest: v1.1.2
+DlLoc: https://github.com/ExplodingBottle/JMagicProxy/releases/download/v1.1.2/Default-Release.zip
 Mode: unzip;jmagicproxy.jar
