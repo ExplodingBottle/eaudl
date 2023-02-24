@@ -2,3 +2,4 @@ DisplayName: MCMT
 Latest: v1.0.2
 DlLoc: https://github.com/ExplodingBottle/MCMT/releases/download/v1.0.2/mcmt_1.0.2_c0.0.11a.zip
 Mode: unzip;mcmt.jar
+Des: This version comes with updates to the patches with code cleanup.
