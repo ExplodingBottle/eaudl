@@ -2,4 +2,4 @@ DisplayName: JMagicProxy
 Latest: v1.1.4
 DlLoc: https://github.com/ExplodingBottle/JMagicProxy/releases/download/v1.1.4/Default-Release.zip
 Mode: unzip;jmagicproxy.jar
-Des: This update comes with the support of Microsoft Update inside of WUProxy.
+Des: This update comes with some ease of use changes. NOTE: Please manually update the jmagicproxy.cfg file.
